@@ -1,0 +1,39 @@
+* {
+	float: none;
+	position: static;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+body{
+  max-width: 400px;
+  height: 1000px;
+}
+.torku{
+  background-color: cadetblue;
+  color: white;
+}
+li{
+  list-style: none;
+}
+label{
+  margin-right: 10px;
+  width: 150px;
+  float: left;
+}
+.log{
+  background-color: cadetblue;
+  color: white;
+}
+.out{
+  background-color: cadetblue;
+}
+a{
+  color: aliceblue;
+  text-decoration: none;
+}
+p{
+  background-color: cadetblue;
+  color: white;
+}
